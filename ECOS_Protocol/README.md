@@ -18,3 +18,4 @@ For instance `set(11,switch[4g])` means set turnout 4 to straight position.
 
 Before writing code in MicroPython on the Pico, I used a tool to send TCP requests from my PC. I used [Packet Sender](https://packetsender.com/) which is very handy.
 
+The first version of the code in MicroPython is: [test_switch1_0.py](test_switch1_0.py) 
