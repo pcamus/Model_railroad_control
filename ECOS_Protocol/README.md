@@ -4,7 +4,7 @@ In this project my goal is to control the switching of my turnouts with a Raspbe
 
 The station has a communication protocol using a TCP connection on the 15471 port on which commands are sent. These commands use a string format.
 
-The protcol definition exists only in [german](protocol_german.pdf). Using an automatic pdf translation tools gives some help to understand the protocol (see [here](protocol_english.pdf).
+The protcol definition exists only in [german](protocol_german.pdf). Using an automatic pdf translation tools gives some help to understand the protocol (see [here](protocol_english.pdf)).
 
 The station is accessed by the means of objects linked to a numeric identifier. In our application we will use the object **11** which is the switching item manager.
 
