@@ -8,4 +8,4 @@ The station is accessed by the means of objects linked to a numeric identifier. 
 
 The message to be sent is the following : `set(11switch[<n><d>])`
 
-<n> is the turnout number, <d> is '**g**' (grün = straight) or '**r**' (rot = deviated)
+`<n>` is the turnout number, <d> is '**g**' (grün = straight) or '**r**' (rot = deviated)
