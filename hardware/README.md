@@ -1,6 +1,6 @@
 ## Hardware plateform for the routing and signaling system.
 
-![cntl routes and signals](https://github.com/user-attachments/assets/8ca23532-cb3b-4c64-ad9e-50e5159e5fe6)
+![cntl routes and signals](https://github.com/user-attachments/assets/492c89c6-709f-4b39-97e1-2aec154e9350)
 
 - [RPi Pico W](https://www.raspberrypi.com/products/raspberry-pi-pico/): controler of the system, will be soon upgraded to RPi Pico 2W.
 - [MCP 23017 I2C port exoander](https://www.adafruit.com/product/5346): as we need 45 outputs for the LED and 14 inputs for the track occupancy detection, port expanders were necessary.
