@@ -14,6 +14,6 @@ The RPi Pico and the expansion boards are mounted on a protoboard, screw termina
 
 ![rpipico_cntl01](https://github.com/user-attachments/assets/9d35b424-d57f-4189-8c8f-0728a2cdc0b1)
 
-The protoboard is placed on a [base plate](/block5.stl) with edges to support the screen.
+The protoboard is placed on a [base plate](block5.stl) with edges to support the screen.
 
 For the screen I used [a frame found on thingiverse.com](https://www.thingiverse.com/thing:2830604).
