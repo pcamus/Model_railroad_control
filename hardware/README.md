@@ -9,3 +9,11 @@
 - An Optical Control Board for track occupancy using Neopixel LEDs. This is a [custom design](ocb).
 - SNCB railroad signal H0 scale (1/87e) designed by [Staf De Meester](https://belgie-belgique-belgien.be/seinen-signaux-signale/) with common anode LEDs.
 - An [ESU ECOS](https://www.esu.eu/en/products/digital-control/ecos-50210-dcc-system/what-ecos-can-do/) control station, controlling trains, turnouts and routes with a WiFi connection to RPi Pico.
+
+The RPi Pico and the expansion boards are mounted on a protoboard, screw terminals are used to connect the LEDs of the signal and the occupancy sensors.
+
+![rpipico_cntl01](https://github.com/user-attachments/assets/9d35b424-d57f-4189-8c8f-0728a2cdc0b1)
+
+The protoboard is placed on a base plate with edges to support the screen.
+
+
